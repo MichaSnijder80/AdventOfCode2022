@@ -1,0 +1,5 @@
+org\micha\apps\adventofcode2022\days\DayOne.class
+org\micha\apps\adventofcode2022\days\AdventDayRunner.class
+org\micha\apps\adventofcode2022\exceptions\AdventOfCodeException.class
+org\micha\apps\adventofcode2022\Application.class
+org\micha\apps\adventofcode2022\days\AdventOfCodeDayFactory.class
